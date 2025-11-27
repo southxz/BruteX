@@ -34,9 +34,7 @@ Use this software **only** on systems where you have explicit permission. Unauth
 - **`default_threads`** — Number of Rayon worker threads  
 - **`openfile_chuks_mb`** — File read buffer size (in MB)  
 - **`keys_search_logs`** — Keywords used to detect credentials in logs  
-- **`default_login`** — If enabled, automatically tests default login combinations  
-
-# How to Use
+- **`default_login`** — If enabled, automatically tests default login combinations
 
 ## **1. Run the Program**
 A window will appear asking you to select a `.txt` log file:

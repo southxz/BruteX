@@ -1,1 +1,6 @@
-
+{
+    "default_threads": 400,
+    "openfile_chuks_mb": 100,
+    "keys_search_logs": ["mysql", "ftp", "phpmyadmin","cpanel","root", "wp-admin","webmail", ":2087", ":2096","wp-login"],
+    "default_login": false
+}

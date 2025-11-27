@@ -1,1 +1,23 @@
+[package]
+name = "BruteX"
+version = "0.1.0"
+edition = "2021"
 
+[dependencies]
+native-dialog = "0.7"
+reqwest = { version  = "*" , features = ["blocking", "cookies"]}
+
+serde_json = "*"
+serde = { version = "1.0", features = ["derive"] }
+url = "2.5.3"
+regex = "*"
+lolcrab = { version = "0.4"}
+rayon = "*"
+ftp = "3.0.1"
+mysql = "*"
+colored = "*"
+scraper = "*"
+futures = "*"
+crossterm = "*"
+ssh2 = "*"
+webbrowser = "0.5"

@@ -1,4 +1,4 @@
-# BruteX — Log Scanner & Credential Checker <img align="right" src="https://i.ibb.co/C5dMXgXq/bruteX.png" />
+# BruteX — Log Scanner & Credential Checker <a alight="right" href="https://ibb.co/PZp9bKbR"><img src="https://i.ibb.co/PZp9bKbR/bruteX.png" alt="bruteX" border="0"></a>
 
 [![License: MPL-2.0](https://img.shields.io/badge/License-MPL2.0-8af7ff.svg)](https://opensource.org/license/mpl-2-0)
 [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=southxz.DownloadSocialMedias)](https://github.com/southxz/DownloadSocialMedias)
